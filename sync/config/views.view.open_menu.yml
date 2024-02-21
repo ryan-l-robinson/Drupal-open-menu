@@ -321,8 +321,8 @@ display:
           plugin_id: text
           empty: true
           content:
-            value: '<p>No main menu items could be found.</p>'
-            format: basic_html
+            value: 'No main menu items could be found.'
+            format: plain_text
           tokenize: false
       sorts:
         weight_1:
@@ -990,8 +990,8 @@ display:
           plugin_id: text
           empty: true
           content:
-            value: "<p>This open menu page is designed to meet needs of blind screen reader users who are part of the Laurier and wider community. To make menu and website exploration faster and easier with a\_<a href=\"https://axesslab.com/what-is-a-screen-reader/\">screen reader</a>, all menu items are listed as headings and followed by brief descriptions of the destination page. We have learned this design also benefits a wider group of users, such as users who search pages (control + f), users who prefer browsing, or users who are new to university libraries.</p>"
-            format: basic_html
+            value: "This open menu page is designed to meet needs of blind screen reader users. To make menu and website exploration faster and easier with a\_screen reader, all menu items are listed as headings and followed by brief descriptions of the destination page. We have learned this design also benefits a wider group of users, such as users who search pages (control + f), users who prefer browsing, or users who are new to the site."
+            format: plain_text
           tokenize: false
       display_extenders: {  }
       path: open-menu
@@ -999,7 +999,7 @@ display:
         type: normal
         title: 'Open Menu'
         description: 'Open menu displays an expanded form of the menu with header navigation'
-        weight: -44
+        weight: -49
         expanded: false
         menu_name: main
         parent: ''
