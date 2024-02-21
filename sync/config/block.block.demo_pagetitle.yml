@@ -1,15 +1,13 @@
-uuid: e8d131d3-cb48-4531-a628-96eeead1a487
+uuid: b8339386-ca68-4d30-b6eb-d983633618a3
 langcode: en
 status: true
 dependencies:
   theme:
-    - stark
-_core:
-  default_config_hash: Oh72CHUkp6cj6dbrXMK2hzCsM05w9cHVoD22rMLQUfk
-id: stark_page_title
-theme: stark
-region: content
-weight: -30
+    - demo
+id: demo_pagetitle
+theme: demo
+region: content_above
+weight: 0
 provider: null
 plugin: page_title_block
 settings:

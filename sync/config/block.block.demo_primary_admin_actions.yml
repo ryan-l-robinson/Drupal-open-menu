@@ -1,15 +1,15 @@
-uuid: 3284d30d-859c-4498-b208-8eaa30f7e590
+uuid: 56983784-9eb7-40fe-8244-0c351e36cc98
 langcode: en
 status: true
 dependencies:
   theme:
-    - stark
+    - demo
 _core:
-  default_config_hash: ABoKnlk20KHqZRw_2Qr4EvaFvH4lnQ2nuhunHeE1JIU
-id: stark_local_actions
-theme: stark
-region: content
-weight: -10
+  default_config_hash: sDmKoL9ejxB_fvD_qmgOHa8HN3X9AIsbud2xK8brMiI
+id: demo_primary_admin_actions
+theme: demo
+region: highlighted
+weight: -5
 provider: null
 plugin: local_actions_block
 settings:

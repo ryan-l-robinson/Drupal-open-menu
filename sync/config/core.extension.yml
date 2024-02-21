@@ -56,7 +56,7 @@ module:
   views: 10
   minimal: 1000
 theme:
-  stark: 0
   claro: 0
   olivero: 0
+  demo: 0
 profile: minimal

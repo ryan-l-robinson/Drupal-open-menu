@@ -1,15 +1,15 @@
-uuid: 44b56448-f0bb-4838-96fa-7bfb4f3c6dc7
+uuid: f1c051bb-09f3-45ef-a25b-1a7cf6c2b00e
 langcode: en
 status: true
 dependencies:
   module:
     - system
   theme:
-    - stark
+    - demo
 _core:
-  default_config_hash: sG8t_FghbUscJ-GrnQ8zs_vx5YM4bJCfntrK-J5HcAY
-id: stark_branding
-theme: stark
+  default_config_hash: n_nlgjggHVfQt2H__zvLOKB2YtjPDbQ5tHijF9LE1aM
+id: demo_site_branding
+theme: demo
 region: header
 weight: 0
 provider: null
@@ -21,5 +21,5 @@ settings:
   provider: system
   use_site_logo: true
   use_site_name: true
-  use_site_slogan: true
+  use_site_slogan: false
 visibility: {  }
