@@ -1,6 +1,6 @@
 ## Overview
 
-This provides a base Drupal site that can function within [GitPod](https://gitpod.io), in order to demonstrate the open menu functionality that will soon be detailed more in a corresponding blog post.
+This provides a base Drupal site that can function within [GitPod](https://gitpod.io), in order to demonstrate the open menu functionality that is [discussed more on my blog](https://ryanrobinson.technology/websites/drupal/open-menu/).
 
 ## Usage
 
