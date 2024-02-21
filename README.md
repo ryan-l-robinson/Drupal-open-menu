@@ -1,6 +1,6 @@
 ## Overview
 
-This provides a base Drupal site that can function within [GitPod](https://gitpod.io).
+This provides a base Drupal site that can function within [GitPod](https://gitpod.io), in order to demonstrate the open menu functionality that will soon be detailed more in a corresponding blog post.
 
 ## Usage
 
@@ -10,7 +10,7 @@ This provides a base Drupal site that can function within [GitPod](https://gitpo
 
 ## Includes
 
-- PHP 8.1 and PHP extensions recommended for Drupal 9: APCU and UploadProgress
+- PHP 8.1 and PHP extensions recommended for Drupal 10: APCU and UploadProgress
 - Latest version of composer.
 - Pa11y accessibility testing tool.
 - module_filter and admin_toolbar modules for easier administration.
