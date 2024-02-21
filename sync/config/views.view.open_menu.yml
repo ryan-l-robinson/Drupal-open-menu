@@ -996,7 +996,7 @@ display:
       display_extenders: {  }
       path: open-menu
       menu:
-        type: none
+        type: normal
         title: 'Open Menu'
         description: 'Open menu displays an expanded form of the menu with header navigation'
         weight: -44
